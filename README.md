@@ -1,20 +1,20 @@
 # 🔒 CyberKey - The Ultimate Wordlist Generator
 #### **Author: [CyberKallan](https://github.com/CyberKallan)**
 #### 📸 **Instagram: [@imarjunarz](https://instagram.com/imarjunarz)**
-#### ⚡ **Version: 2.0 | Premium UI & Advanced Features**
+#### ⚡ **Version: 2.0 | Termux,linux friendly & Advanced Features**
 
 ---
 
 ## 🚀 **About CyberKey**
 CyberKey is a **next-level wordlist generator** designed for **penetration testers, ethical hackers, and cybersecurity professionals.**  
 
-It can generate wordlists with **custom names, symbols, numbers, pet names, bad words, common passwords, and even Indian phone numbers!**  
+It can generate wordlists with **custom names, symbols, numbers, pet names, bad words, kerala keywords, common passwords, and even Indian phone numbers!**  
 
-🔹 **Advanced UI with a Premium Feel**  
+🔹 **Advanced Generator with Termux,Linux Enchantments**  
 🔹 **Multiple Combinations (e.g., Indian Names + Symbols + Bad Words)**  
 🔹 **Custom Output File Name**  
-🔹 **Animated Loading Effects & GitHub Terminal UI Enhancements**  
-🔹 **Instagram Auto-Promotion After Wordlist Creation**  
+🔹 **Minimal system & GitHub Terminal UI Enhancements**  
+🔹 **Indian, Kerala Based words**  
 
 ---
 
